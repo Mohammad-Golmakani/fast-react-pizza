@@ -1,3 +1,3 @@
 # Fast React Pizza
 
-Practice Project
+Practice Project With React and Tailwind
