@@ -14,6 +14,7 @@ function Home() {
           Straight out of the oven, straight to you.
         </span>
       </h1>
+
       {username === "" ? (
         <CreateUser />
       ) : (
@@ -21,6 +22,7 @@ function Home() {
           Continue ordering, {username}
         </Button>
       )}
+      
     </div>
   );
 }
